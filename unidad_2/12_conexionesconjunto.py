@@ -1,0 +1,10 @@
+#DEFINIR CONJUNTO DE NUMERO
+numeros={1,2,3,4,5}
+#SOLICITAMOS UN NUMERO PARA AGREGAR AL CONJUNTO
+numero = int(input("INTRODUCE UN NUMERO: "))
+#AGREGAR UN NUMERO AL CONJUNTO (SET)
+numeros.add(numero)
+
+print(numeros)
+
+
